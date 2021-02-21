@@ -20,7 +20,7 @@ Challenge1 - **PyBank**
 
 * In addition, final script should both print the analysis to the terminal and export a text file with the results.
 
-Challenge2 - **PyPOll**
+Challenge2 - **PyPoll**
 
 ![Vote Counting](Images/Vote_counting.png)
 
