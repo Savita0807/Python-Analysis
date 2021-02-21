@@ -20,3 +20,23 @@ Challenge1 - **PyBank**
 
 * In addition, final script should both print the analysis to the terminal and export a text file with the results.
 
+Challenge2 - **PyPOll**
+
+![Vote Counting](Images/Vote_counting.png)
+
+* In this challenge, task is helping a small, rural town modernize its vote counting process.
+
+* Given is a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+Task is to create a Python script that analyzes the votes and calculates each of the following:
+
+  * The total number of votes cast
+
+  * A complete list of candidates who received votes
+
+  * The percentage of votes each candidate won
+
+  * The total number of votes each candidate won
+
+  * The winner of the election based on popular vote.
+
+* In addition, final script should both print the analysis to the terminal and export a text file with the results.
